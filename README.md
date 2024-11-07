@@ -1,4 +1,4 @@
-# The Cloud Resume Challenge: A Journey Through AWS and Overcoming Struggles
+# The Cloud Resume Challenge: A Journey Through AWS
 
 The Cloud Resume Challenge is an exciting project designed to teach cloud computing skills through hands-on experience with AWS services. This project involves creating a personal resume, hosting it on AWS using services like S3, CloudFront, and DynamoDB, and automating deployment with Terraform and GitHub Actions. While the challenge is rewarding in the end, it comes with its fair share of struggles that tested my patience and problem-solving skills.
 
